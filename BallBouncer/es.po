@@ -2007,7 +2007,7 @@ msgstr "Ranura {0}. {1}"
 
 msgctxt "SkillSlotsTitle"
 msgid "Slots"
-msgstr "Tragamonedas"
+msgstr "Ranuras"
 
 #, python-brace-format
 msgctxt "SkillsAutoCatchLevelInfoText"
